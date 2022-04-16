@@ -132,6 +132,22 @@
       "groups": {
         "Acera the Great": "/proxy/api/imgur/chapter/R94KMkO"
       }
+    },
+    "17": {
+      "title": "Chapter 17",
+      "volume": "1",
+      "last_updated": "1649011380",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/m3BVclo"
+      }
+    },
+    "18": {
+      "title": "Chapter 18",
+      "volume": "1",
+      "last_updated": "1649615700",
+      "groups": {
+        "Acera the Great": "/proxy/api/imgur/chapter/MADvhxd"
+      }
     }
   }
 }
